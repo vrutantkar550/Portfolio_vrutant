@@ -10,7 +10,7 @@ export const profile = {
   github: "https://github.com/vrutantkar550-png",
   linkedin: "https://www.linkedin.com/in/vrutant-kar-5898b229a/",
   twitter: "https://x.com/yourhandle",
-  resumeUrl: "#",
+  resumeUrl: "public/Resume_vrutant.pdf",
 };
 
 export const about = {
