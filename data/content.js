@@ -28,40 +28,57 @@ export const about = {
 
 export const skillGroups = [
   {
-    category: "Languages",
-     skills: ["Python", "JavaScript", "C++", "SQL", "HTML", "CSS", "Bash"],
-   },
-  {
-    category: "ML / DL frameworks",
-     skills: ["Machine Learning", "Deep Learning", "Computer Vision", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV"],
+    category: "👨‍💻 Languages",
+    skills: ["Python", "C++", "SQL", "JavaScript", "HTML", "CSS"],
   },
   {
-    category: "AI Tools",
-     skills: [
-       "YOLOv5",
-       "Prompt Engineering",
-       "LLMs",
-       "n8n",
-       "Prompt engineering",
-       "Agentic workflows"],
+    category: "🤖 AI & Machine Learning",
+    skills: [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "YOLOv5",
+      "PyTorch",
+      "TensorFlow",
+    ],
   },
   {
-   category: "Data Science",
+    category: "🧠 LLM & Generative AI",
+    skills: [
+      "LangChain",
+      "Hugging Face",
+      "Prompt Engineering",
+      "n8n",
+      "Agentic AI",
+    ],
+  },
+  {
+    category: "📊 Data Science",
     skills: [
       "NumPy",
       "Pandas",
       "Matplotlib",
-      "Data Analysis",
-      "Kaggle"],
+      "Scikit-learn",
+    ],
   },
   {
-    category: "Development Tools",
-      skills: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Jupyter Notebook",
-        "Google Colab"],
+    category: "🛠 Development Tools",
+    skills: [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Google Colab",
+      "Jupyter Notebook",
+    ],
+  },
+  {
+    category: "🚀 Currently Learning",
+    skills: [
+      "Multimodal AI",
+      "MLOps",
+      "LangGraph",
+      "FastAPI",
+    ],
   },
 ];
 
