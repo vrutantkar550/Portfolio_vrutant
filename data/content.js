@@ -7,10 +7,10 @@ export const profile = {
     "AI engineer focused on applied machine learning, large language models, and the infrastructure that keeps them running in production.",
   location: "Nashik, Maharashtra, India",
   email: "vrutantkar550@gmail.com",
-  github: "https://github.com/vrutantkar550-png",
+  github: "https://github.com/vrutantkar550",
   linkedin: "https://www.linkedin.com/in/vrutant-kar-5898b229a/",
-  twitter: "https://x.com/yourhandle",
-  resumeUrl: "public/Resume_vrutant.pdf",
+  instagram: "https://www.instagram.com/vrutantkar/#",
+  resumeUrl: "/Resume_vrutant.pdf",
 };
 
 export const about = {
@@ -33,7 +33,7 @@ export const skillGroups = [
    },
   {
     category: "ML / DL frameworks",
-     skills: ["Machine Learning", "Deep Learning", "Computer Vision", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "Hugging Face"],
+     skills: ["Machine Learning", "Deep Learning", "Computer Vision", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV"],
   },
   {
     category: "AI Tools",
@@ -80,15 +80,15 @@ export const projects = [
 
     link: "#",
 
-    repo: "https://github.com/vrutantkar550-png/smart-traffic-signal-control",
+    repo: "https://github.com/vrutantkar550/smart-traffic-signal-control",
   },
   {
-    title: "On-device intent classifier",
+    title: "loan-approval-prediction",
     description:
-      "Distilled a transformer down to a 4M-parameter model for real-time intent detection running fully offline on mobile hardware.",
-    tags: ["PyTorch", "Distillation", "Edge ML"],
-    link: "#",
-    repo: "#",
+      "Built a machine learning model to predict loan approval using applicant data and classification algorithms.",
+    tags: ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+    link: "https://github.com/vrutantkar550/loan-approval-prediction",
+    repo: "https://github.com/vrutantkar550/loan-approval-prediction",
   },
 ];
 
