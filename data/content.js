@@ -84,7 +84,7 @@ export const skillGroups = [
 
 export const projects = [
   {
-    title: "Smart Traffic Signal Control using AI",
+    title: "Smart Traffic Signal Control",
     description:
       "An AI-based traffic management system using YOLOv5 for real-time vehicle detection and adaptive traffic signal control.",
 
