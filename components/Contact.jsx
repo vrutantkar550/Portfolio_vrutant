@@ -22,7 +22,7 @@ export default function Contact() {
           <div className="contact-links">
             <a href={profile.github}>GitHub</a>
             <a href={profile.linkedin}>LinkedIn</a>
-            <a href={profile.twitter}>X / Twitter</a>
+            <a href={profile.twitter}>Instagram</a>
           </div>
         </div>
       </div>
